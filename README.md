@@ -9,8 +9,6 @@ import project into android studio and build apk
 
 [- Rxjava](https://github.com/ReactiveX/RxJava)
 
-[- Room](https://developer.android.com/training/data-storage/room)
-
 [- RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 
 [- ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
